@@ -1,7 +1,7 @@
 funkyname.js
 ============
 
-A NodeJS library for funky naming. Elongated-octopus.
+A Node.js library for funky naming. Elongated-octopus.
 
 ### Install using NPM
 
